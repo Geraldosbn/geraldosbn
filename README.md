@@ -1,16 +1,14 @@
-### Hi there 👋
+Olá meu nome é Geraldo Babosa, sou estudante de tecnologia da informação, amo tecnologia e quero sempre apender mais.
 
-<!--
-**Geraldosbn/geraldosbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo Java Script, Html e CSS.
+- 👯 Estou procurando colaborar em projetos frontend.
+- 🤔 Estou procurando ajuda para o inicio de carreira.
+- 📫 Como entrar em contato comigo: geraldosb92@gmail.com
+- 😄 Pronomes: Gege.
+- ⚡ Curiosidade: Sou ciclista urbano nas horas vagas kk
 
-Here are some ideas to get you started:
+Linkedin: https://www.linkedin.com/in/geraldo-barbosa-a50629146
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vamos nos conectar?  👋
+
+
