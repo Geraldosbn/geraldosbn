@@ -5,7 +5,6 @@ Olá meu nome é Geraldo Babosa, sou estudante de tecnologia da informação, am
 - 🤔 Estou procurando ajuda para o inicio de carreira.
 - 📫 Como entrar em contato comigo: geraldosb92@gmail.com
 - 😄 Pronomes: Gege.
-- ⚡ Curiosidade: Sou ciclista urbano nas horas vagas kk
 
 Linkedin: https://www.linkedin.com/in/geraldo-barbosa-a50629146
 
