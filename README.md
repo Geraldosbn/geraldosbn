@@ -1,4 +1,4 @@
-## Aqui é o Geraldo Barbosa, um Dev Full-Stack em Formação.
+## Aqui é o Geraldo Barbosa, um Dev Full-Stack em formação.
 
 <div align="center">
   <a href="https://github.com/Geraldosbn">
