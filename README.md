@@ -23,9 +23,9 @@ Minha abordagem combina um olhar atento aos detalhes técnicos com uma visão or
   
   ## Contato
 <div>
-  <a href = "https://gsndevworks.netlify.app/" target="blank"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=tool&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/geraldo-barbosa-a50629146" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:geraldosbn92@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://gsndevworks.netlify.app/" target="blank"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=tool&logoColor=white" target="blank"></a>
+  <a href="https://www.linkedin.com/in/geraldo-barbosa-a50629146" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+  <a href = "mailto:geraldosbn92@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
 </div>
 
 
