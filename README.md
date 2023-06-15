@@ -1,4 +1,6 @@
-## Aqui é o Geraldo Barbosa, um Dev Full-Stack em formação.
+## Sou um desenvolvedor Front-end focado no ecossistema React JS, TypeScript, React Query. Minha jornada no desenvolvimento web tem me levado a dominar as funcionalidades do React JS, aproveitando todo o seu potencial para criar interfaces interativas e responsivas. Com o TypeScript, garanto um código robusto e livre de erros, trazendo maior segurança e escalabilidade aos projetos. Além disso, minha experiência com Redux e React Query me permite gerenciar eficientemente o estado da aplicação e otimizar as requisições de dados.
+
+Minha abordagem combina um olhar atento aos detalhes técnicos com uma visão orientada para a excelência, por exemplo, com a aplicação dos princípios do SOLID, garantindo a entrega de soluções de qualidade que superam as expectativas dos usuários.
 
 <div align="center">
   <a href="https://github.com/Geraldosbn">
